@@ -1,0 +1,8 @@
+dist/
+mcp_project.egg-info/
+papers/
+
+server_config.json
+
+.env
+.venv
